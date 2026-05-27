@@ -1,16 +1,46 @@
-## Hi there 👋
+# Simon Wagener
 
-<!--
-**Dimon821/Dimon821** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Molecular Life Sciences student at Radboud University specializing in computational analysis, digital image processing, and data science. Main focuses involve leveraging machine learning, computer vision, and mathematical optimization frameworks to interpret complex biomolecular and medical data.
 
-Here are some ideas to get you started:
+### About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Currently studying Molecular Life Sciences at Radboud University in Nijmegen, Netherlands.
+* Focused on bridging data science with life science workflows, converting complex raw experimental data into biological insights.
+* Skilled in engineering data processing pipelines for high throughput biochemistry instrumentation like Cyclotron Mass Spectrometry.
+
+### Tech Stack and Life Science Toolbelt
+
+| Category | Tools and Technologies |
+| :--- | :--- |
+| Programming | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) |
+| Data Science and ML | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=black) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
+| Image Analysis | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) `scikit-image` `Pillow` |
+| Optimization | `scikit-optimize` (Bayesian Optimization via Gaussian Processes) |
+| Environments and Tools | ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) |
+
+### Featured Interdisciplinary Projects
+
+#### [Retinal Blood Vessel Segmentation](https://github.com/Dimon821/image-analysis-of-retinal-blood-vessels)
+
+An automated computer vision and image processing pipeline designed to map complex microvascular structures from retinal fundus photographs utilizing the DRIVE dataset.
+
+* Implemented multi stage preprocessing including green channel separation, CLAHE contrast stretching, illumination homogenization, and morphological cleanups to isolate high contrast vascular morphology.
+* Configured a 15 dimensional Bayesian Optimization framework using `skopt.gp_minimize` to mathematically maximize segmentation evaluation metrics like AUC ROC and Dice similarity coefficients without manual parameter tuning.
+
+#### [Data Science Project: Cyclotron Mass Spectrometry](https://github.com/Dimon821/Data-Science-Project-Cyclotron-Mass-Spec)
+
+A dedicated data science environment optimized for cleaning, decoding, and rendering spectral data profiles from deep molecular laboratory readouts. Leveraged the mathematical ecosystem of Python to handle mass spectrometry variables and visualize distributions for analytical biochemistry research.
+
+### Connect with Me
+
+Open to discussing computational biology, bioinformatics, computer vision pipelines, or collaborative scientific software developments.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Simon_Wagener-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-wagener-619938212/)
+[![Academic Email](https://img.shields.io/badge/Academic_Email-simon.wagener@ru.nl-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simon.wagener@ru.nl)
+[![Private Email](https://img.shields.io/badge/Private_Email-your.email@example.com-004C97?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:your.email@example.com)
+
+Note: Replace `your.email@example.com` with your real personal email address in the markdown code before committing.
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dimon821&show_icons=true&theme=transparent&hide_border=true" alt="Simon Wagener GitHub Stats" />
+</div>
