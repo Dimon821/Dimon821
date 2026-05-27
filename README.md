@@ -39,7 +39,3 @@ Open to discussing computational biology, bioinformatics, computer vision pipeli
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Simon_Wagener-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-wagener-619938212/)
 [![Academic Email](https://img.shields.io/badge/Academic_Email-simon.wagener@ru.nl-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simon.wagener@ru.nl)
 [![Private Email](https://img.shields.io/badge/Private_Email-swagener18@gmail.com-004C97?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:swagener18@gmail.com)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dimon821&show_icons=true&theme=transparent&hide_border=true" alt="Simon Wagener GitHub Stats" />
-</div>
