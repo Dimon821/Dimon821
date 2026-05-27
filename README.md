@@ -37,7 +37,7 @@ Open to discussing computational biology, bioinformatics, computer vision pipeli
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Simon_Wagener-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-wagener-619938212/)
 [![Academic Email](https://img.shields.io/badge/Academic_Email-simon.wagener@ru.nl-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simon.wagener@ru.nl)
-[![Private Email](https://img.shields.io/badge/Private Email swagener18@gmail.com-004C97?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:your.email@example.com)
+[![Private Email](https://img.shields.io/badge/Private_Email-swagener18@gmail.com-004C97?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:your.email@example.com)
 
 Note: Replace `your.email@example.com` with your real personal email address in the markdown code before committing.
 
