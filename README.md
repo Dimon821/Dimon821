@@ -12,7 +12,8 @@ Molecular Life Sciences student at Radboud University specializing in computatio
 
 | Category | Tools and Technologies |
 | :--- | :--- |
-| Programming | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) |
+| Programming | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white) ![MATLAB](https://img.shields.io/badge/MATLAB-ED6B21?style=flat-square&logo=mathworks&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white) |
+| Hardware and Prototyping | ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) |
 | Data Science and ML | ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=black) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) |
 | Image Analysis | ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) `scikit-image` `Pillow` |
 | Optimization | `scikit-optimize` (Bayesian Optimization via Gaussian Processes) |
@@ -37,7 +38,7 @@ Open to discussing computational biology, bioinformatics, computer vision pipeli
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Simon_Wagener-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/simon-wagener-619938212/)
 [![Academic Email](https://img.shields.io/badge/Academic_Email-simon.wagener@ru.nl-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simon.wagener@ru.nl)
-[![Private Email](https://img.shields.io/badge/Private_Email-swagener18@gmail.com-004C97?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:your.email@example.com)
+[![Private Email](https://img.shields.io/badge/Private_Email-swagener18@gmail.com-004C97?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:swagener18@gmail.com)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dimon821&show_icons=true&theme=transparent&hide_border=true" alt="Simon Wagener GitHub Stats" />
