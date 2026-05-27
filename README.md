@@ -39,8 +39,6 @@ Open to discussing computational biology, bioinformatics, computer vision pipeli
 [![Academic Email](https://img.shields.io/badge/Academic_Email-simon.wagener@ru.nl-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simon.wagener@ru.nl)
 [![Private Email](https://img.shields.io/badge/Private_Email-swagener18@gmail.com-004C97?style=for-the-badge&logo=minutemailer&logoColor=white)](mailto:your.email@example.com)
 
-Note: Replace `your.email@example.com` with your real personal email address in the markdown code before committing.
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dimon821&show_icons=true&theme=transparent&hide_border=true" alt="Simon Wagener GitHub Stats" />
 </div>
