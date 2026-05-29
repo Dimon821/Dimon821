@@ -21,10 +21,10 @@ Molecular Life Sciences student at Radboud University specializing in computatio
 
 ### Featured Interdisciplinary Projects
 
-### [Bacterial respiratory pathogens share predicted MHC-II epitopes
+### [Bacterial respiratory pathogens share predicted MHC-II epitopes(https://github.com/Dimon821/Bacterial-pathogens-share-predicted-MHC-II-epitopes)
 As part of my Bachelors internship Ia high-throughput computational pipeline aimed at identifying shared T-cell epitopes across multiple respiratory bacterial pathogens, including Bordetella pertussis, Haemophilus influenzae, Streptococcus pneumoniae, and Streptococcus pyogenes. By leveraging NetMHCIIpan-4.0 in conjunction with custom proteomics lookup tables, this project systematically maps the entire peptide repertoire of these species to detect highly conserved sequences. The core of this work involves building a robust data processing framework that integrates peptide n-mer extraction with MHC-II binding affinity predictions and phylogenetic distribution analysis. Ultimately, this research aims to pinpoint cross-reactive candidates that could serve as potential targets for pan-bacterial vaccines, effectively bridging the gap between large-scale genomic data and translational immunological insights.
 
-#### [Retinal Blood Vessel Segmentation](https://github.com/Dimon821/image-analysis-of-retinal-blood-vessels](https://github.com/Dimon821/Bacterial-pathogens-share-predicted-MHC-II-epitopes)
+#### [Retinal Blood Vessel Segmentation](https://github.com/Dimon821/image-analysis-of-retinal-blood-vessels]
 
 An automated computer vision and image processing pipeline designed to map complex microvascular structures from retinal fundus photographs utilizing the DRIVE dataset.
 
