@@ -26,7 +26,7 @@ An interactive desktop analysis dashboard that bridges AlphaFold structural pred
 * Developed an interactive, dynamic PAE structure mapping engine where clicking anywhere on the 2D matrix map automatically re-colors the 3D YASARA viewport based on alignment errors relative to the selected focus residue.
 * Implemented a native fallback loading engine to parse sequence-specific confidence intervals directly from CIF coordinate B-factor arrays when standard JSON metrics are absent, alongside a Tkinter-driven workspace swapping system.
 
-#### [Bacterial respiratory pathogens share predicted MHC-II epitopes](https://github.com/Dimon821/Bacterial-pathogens-share-predicted-M MHC-II-epitopes)
+#### [Bacterial respiratory pathogens share predicted MHC-II epitopes](https://github.com/Dimon821/Bacterial-pathogens-share-predicted-MHC-II-epitopes)
 
 Developed a high-throughput computational pipeline during my Bachelor's internship aimed at identifying shared T-cell epitopes across multiple respiratory bacterial pathogens, including *Bordetella pertussis*, *Haemophilus influenzae*, *Streptococcus pneumoniae*, and *Streptococcus pyogenes*. 
 
