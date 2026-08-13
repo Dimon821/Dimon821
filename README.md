@@ -44,6 +44,16 @@ An automated computer vision and image processing pipeline designed to map compl
 
 A dedicated data science environment optimized for cleaning, decoding, and rendering spectral data profiles from deep molecular laboratory readouts. Leveraged the mathematical ecosystem of Python to handle mass spectrometry variables and visualize distributions for analytical biochemistry research.
 
+#### [Floorball Tactics Studio](https://github.com/Dimon821/floorball_animator)
+
+An interactive Tkinter desktop application for drawing, animating, and presenting floorball tactics, built as a single Python module around a resolution-independent coordinate system and a command-based architecture supporting undo/redo, grouped keyframe animation, and fully reproducible play files.
+
+* Engineered a rink-metre geometry layer in which every player, arrow, and marking is stored in real-world metres and re-projected on each redraw, keeping a play geometrically identical across window resizes, zoom, rink rotation, and three regulation field sizes selectable at runtime — 5v5 (IFF, 40 × 20 m), 4v4 (NeFUB small field, 27 × 15 m), and 3v3 (NeFUB/IFF, 22 × 11 m) — each with its own goal lines, goal areas, face-off marks, and substitution zones taken from the published rules, plus an independent half-rink view of whichever field is selected.
+* Implemented a grouped keyframe animation engine interpolating player positions at 25 fps, in which arrows snapped to a player stay anchored to them as they move and are progressively drawn along their own curve, with export to GIF, MP4, WebM, AVI, MOV, and PNG/JPEG stills through canvas capture and PIL/OpenCV.
+* Designed a self-describing JSON play format storing the board, every mark, and the complete timeline — group durations and timestamps included — in metres, so a saved play reopens exactly as recorded rather than being replayed from pixel coordinates.
+* Validated the whole application with a headless self-check suite of 751 assertions exercising 100% of its functions, including a differential test that exports two differently-condensed saves of the same play and compares the resulting GIFs frame by frame.
+
+
 ### Connect with Me
 
 Open to discussing computational biology, bioinformatics, computer vision pipelines, or collaborative scientific software developments.
